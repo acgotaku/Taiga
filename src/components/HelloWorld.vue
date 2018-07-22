@@ -20,6 +20,7 @@
       <li><a href="https://twitter.com/vuejs" target="_blank">Twitter</a></li>
     </ul>
     <h3>Ecosystem</h3>
+    <p>{{ $t("music.title") }} </p>
     <ul>
       <li><a href="https://router.vuejs.org" target="_blank">vue-router</a></li>
       <li><a href="https://vuex.vuejs.org" target="_blank">vuex</a></li>

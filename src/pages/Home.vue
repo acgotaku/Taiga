@@ -1,5 +1,8 @@
 <template>
-  <p class="home">This is home page!</p>
+  <div class="home">This is home page!
+    <p>{{ $t("music.title") }} </p>
+  </div>
+
 </template>
 
 <script>
